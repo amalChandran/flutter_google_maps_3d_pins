@@ -15,7 +15,7 @@ What's This All About?
 https://github.com/user-attachments/assets/b9eb6d63-28e4-44d0-9ba2-1a97c22d80be
 
 
-https://codinglollypop.medium.com/7-days-of-flutter-fun-a-visual-journey-through-animations-4caeb556403e
+[Find more about the 7 day flutter challenge here.](https://codinglollypop.medium.com/7-days-of-flutter-fun-a-visual-journey-through-animations-4caeb556403e)
 
 ## Features
 
